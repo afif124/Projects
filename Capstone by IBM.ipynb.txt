@@ -1,0 +1,13 @@
+Notebook for the capstone project from course Applied Data Science Capstone by IBM on Coursera
+
+Import libraries
+Lets first import the required libraries.
+
+In [1]:
+import pandas as pd
+import numpy as np
+Simple Test
+Lets do a simple test to validate our environment.
+In [3]:
+print('Hello Capstone Project Course!')
+Hello Capstone Project Course!
